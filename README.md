@@ -17,3 +17,31 @@ install.packages("ellmer")
 install.packages("usethis")
 install.packages("tidyverse")
 ```
+
+## Datos
+
+### Ejercicio 1: Crear datos sintéticos para generación de código
+
+Trabajaremos con un diccionario de datos disponible en [Google Sheets](https://docs.google.com/spreadsheets/d/130wNaZeLyXyrXZiUu_ZG3GJevMei_xrsB4asO8htdpk/edit?usp=sharing).
+
+### Ejercicio 2: Uso de {ellmer} para extraer datos
+
+Primero, usaremos estos dos fragmentos.
+
+```
+perro_1 <- "Kiara es una perrita quiltra de aproximadamente 2 años. Pesa cerca de 22 kg y fue rescatada hace algunos meses tras ser encontrada deambulando por la ciudad. Es muy sociable con otros perros y convive bien con gatos. Tiene todas sus vacunas al día, está esterilizada y necesita una familia con experiencia en perros de alta energía."
+
+perro_2 <- "Kaila es una perra salchicha de 5 años. Es muy inteligente y aprende con facilidad, pero puede mostrarse tímida con personas desconocidas durante los primeros días. Convive sin problemas con niños, aunque prefiere ser la única mascota del hogar. Está esterilizada y tiene su esquema de vacunación completo."
+
+```
+
+Luego, probaremos importando [un archivo con metadatos de artículos académicos](https://raw.githubusercontent.com/rivaquiroga/ia-generativa-analisis-de-datos/refs/heads/main/abstracts.csv) que se encuentra en este mismo repositorio. 
+
+
+### Ejercicio 3: Comparar anotación automática vs. estándar de oro
+
+(¡si alcanzamos!)
+
+Anotaremos [una serie de titulares de forma manual en Google Sheets](https://docs.google.com/spreadsheets/d/1WAvlUMHCdyknR-4cm5IXwpd3QPTjcbFbUgoGmg1SKQQ/edit?usp=sharing). 
+
+Y luego utilizaremos [el archivo csv que está en este mismo repositorio](https://raw.githubusercontent.com/rivaquiroga/ia-generativa-analisis-de-datos/refs/heads/main/abstracts.csv) para etiquetarlo con un modelo y comparar. 
