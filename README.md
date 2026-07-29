@@ -9,7 +9,7 @@ Este taller ofrece una introducción al uso de herramientas de inteligencia arti
 ## Preparación
 
 ### R y RStudio
-Para poder realizar las actividades prácticas es necesario tener instalada una versión reciente de [R](https://cran.r-project.org/) y de [RStudio](https://docs.posit.co/ide/user/#rstudio-ide-oss-downloads). 
+Para poder realizar las actividades prácticas es necesario tener instalada una versión reciente de [R](https://cran.r-project.org/) y de [RStudio](https://docs.posit.co/ide/user/#rstudio-ide-oss-downloads). También es posible trabajar con la versión en la nube de RStudio, disponible en [Posit Cloud](https://posit.cloud/). La versión gratuita de Posit Cloud tiene algunas limitaciones de espacio y memoria RAM. 
 
 Instalaremos los siguientes paquetes:
 
