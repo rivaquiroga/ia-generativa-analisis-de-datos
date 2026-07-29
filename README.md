@@ -37,6 +37,8 @@ Trabajaremos con un diccionario de datos disponible en [Google Sheets](https://d
 
 Primero, usaremos estos dos fragmentos.
 
+Este es [el script que escribimos en la sesión](https://www.dropbox.com/scl/fi/fk0ziq9fidhoe2u2xav3r/ejemplo-uso-ellmer.R?rlkey=xu8oxzyarm2oi7tqj8v34efuk&dl=0).
+
 ```
 perro_1 <- "Kiara es una perrita quiltra de aproximadamente 2 años. Pesa cerca de 22 kg y fue rescatada hace algunos meses tras ser encontrada deambulando por la ciudad. Es muy sociable con otros perros y convive bien con gatos. Tiene todas sus vacunas al día, está esterilizada y necesita una familia con experiencia en perros de alta energía."
 
