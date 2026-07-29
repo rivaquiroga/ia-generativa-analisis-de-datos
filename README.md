@@ -9,3 +9,11 @@ Este taller ofrece una introducción al uso de herramientas de inteligencia arti
 ## Preparación
 
 Para poder realizar las actividades prácticas es necesario tener instalada una versión reciente de [R](https://cran.r-project.org/) y de [RStudio](https://docs.posit.co/ide/user/#rstudio-ide-oss-downloads). 
+
+Instalaremos los siguientes paquetes:
+
+```
+install.packages("ellmer")
+install.packages("usethis")
+install.packages("tidyverse)
+```
