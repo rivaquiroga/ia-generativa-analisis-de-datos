@@ -15,5 +15,5 @@ Instalaremos los siguientes paquetes:
 ```
 install.packages("ellmer")
 install.packages("usethis")
-install.packages("tidyverse)
+install.packages("tidyverse")
 ```
