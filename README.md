@@ -8,6 +8,7 @@ Este taller ofrece una introducción al uso de herramientas de inteligencia arti
 
 ## Preparación
 
+### R y RStudio
 Para poder realizar las actividades prácticas es necesario tener instalada una versión reciente de [R](https://cran.r-project.org/) y de [RStudio](https://docs.posit.co/ide/user/#rstudio-ide-oss-downloads). 
 
 Instalaremos los siguientes paquetes:
@@ -17,6 +18,10 @@ install.packages("ellmer")
 install.packages("usethis")
 install.packages("tidyverse")
 ```
+
+### Gemini
+
+Para los ejercicios del taller utilizaremos la capa gratuita de los modelos de Google Gemini. Las indicaciones para la configuración se encuentran [en este documento](https://github.com/rivaquiroga/ia-generativa-analisis-de-datos/blob/main/gemini-api-key.md).
 
 ## Datos
 
