@@ -19,6 +19,10 @@ install.packages("usethis")
 install.packages("tidyverse")
 ```
 
+### Quick Draw with Google
+
+[quickdraw.withgoogle.com](https://quickdraw.withgoogle.com/)
+
 ### Gemini
 
 Para los ejercicios del taller utilizaremos la capa gratuita de los modelos de Google Gemini. Las indicaciones para la configuración se encuentran [en este documento](https://github.com/rivaquiroga/ia-generativa-analisis-de-datos/blob/main/gemini-api-key.md).
