@@ -50,13 +50,12 @@ Luego, probaremos importando [un archivo con metadatos de artículos académicos
 
 ### Ejercicio extra: audio a texto con Whisper
 
-Notebook: https://colab.research.google.com/drive/14a2_2U92VTxjwi95zLOK8YTsnNof6pM9
-Archivos de audio: https://www.dropbox.com/scl/fo/bfvxxuhdw9uxsgz5g7zfl/ABWmyoLke7uDKzRzgh69iak?rlkey=e5urlan3vw9ssdipkkkc9g3h4&dl=0
+📓 [Notebook con el código](https://colab.research.google.com/drive/14a2_2U92VTxjwi95zLOK8YTsnNof6pM9)
+
+🎧 [Archivos de audio para probar](https://www.dropbox.com/scl/fo/bfvxxuhdw9uxsgz5g7zfl/ABWmyoLke7uDKzRzgh69iak?rlkey=e5urlan3vw9ssdipkkkc9g3h4&dl=0)
 
 ### Ejercicio 3: Comparar anotación automática vs. estándar de oro
 
-(¡si alcanzamos!)
+(¡no alcanzamos 💔!)
 
-Anotaremos [una serie de titulares de forma manual en Google Sheets](https://docs.google.com/spreadsheets/d/1WAvlUMHCdyknR-4cm5IXwpd3QPTjcbFbUgoGmg1SKQQ/edit?usp=sharing). 
-
-Y luego utilizaremos [el archivo csv que está en este mismo repositorio](https://raw.githubusercontent.com/rivaquiroga/ia-generativa-analisis-de-datos/refs/heads/main/abstracts.csv) para etiquetarlo con un modelo y comparar. 
+El plan era anotar de forma colectiva [una serie de titulares de forma manual en Google Sheets](https://docs.google.com/spreadsheets/d/1WAvlUMHCdyknR-4cm5IXwpd3QPTjcbFbUgoGmg1SKQQ/edit?usp=sharing), luego etiquetar los mismos titulares usando ellmer, y finalmente comparar los resultados. 
